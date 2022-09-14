@@ -103,6 +103,9 @@ border: none !important;
       padding: 12px 50px;
     
   }
+  .dropdown-toggle{
+    color: #000 !important;
+  }
   .section__heading{
     font-size: 9vw ;
   }
